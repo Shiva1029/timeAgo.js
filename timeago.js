@@ -39,5 +39,3 @@ var singular = function(num, str) {
   }
   return '';
 };
-
-console.log(timeAgo(new Date('2016-12-04T11:45:00.000Z')));
