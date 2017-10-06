@@ -3,3 +3,5 @@ calculate time difference for javascript date objects in years, months, days, ho
 
 # Usage
 `timeAgo( new Date('2016-12-04T11:45:00.000Z') )`
+
+[Demo](https://jsfiddle.net/j33r60xx/)
