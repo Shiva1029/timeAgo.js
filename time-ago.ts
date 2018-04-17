@@ -39,7 +39,7 @@ export const timeAgo = function (date) {
 };
 
 const singular = function (num, str) {
-    if (num > 1) {
+    if (num >= 1) {
         if (num === 1) {
             return '1 ' + str + ' ';
         } else {
