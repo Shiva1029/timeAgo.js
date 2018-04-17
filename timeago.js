@@ -31,7 +31,7 @@ var timeAgo = function(date) {
 };
 
 var singular = function(num, str) {
-  if (num > 1) {
+  if (num >= 1) {
     if (num === 1)
       return '1 ' + str + ' ';
     else
